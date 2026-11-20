@@ -1,5 +1,5 @@
 # Projekt: Menadżer Zadań (Full-Stack)
-
+ 
 ## Architektura
 - **Backend (`/backend`)**:
   - Technologia: .NET 8 Web API (Minimal API)
